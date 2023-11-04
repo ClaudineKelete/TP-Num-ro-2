@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(91, 70, 165);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 25px;
+    text-align: center;
+}
+
+h1{
+    
+    font-size: 45px;
+}
+.btn{
+    background-color: rgb(173, 238, 22);
+    color: #1b0404;
+    border: solid 2px;
+    border-radius: 27px;
+    text-decoration: none;
+    padding: 15px 20px;
+}
+
+.btn:hover{
+    background-color: rgba(244, 247, 248, 0.849);
+    color: rgb(6, 4, 10);
+ 
+}
